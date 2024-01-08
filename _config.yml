@@ -1,9 +1,9 @@
 # User config
 author: "Eunu Lee"
 tagline: "Eunu Lee Homepage"
-description: "**Hey**,
+description: <span style = "font family:$font-poppins; font-size: 4em;">"Hey,"</span>,
 <br>
-<br> I'm Eunu.
+<br> "I'm Eunu.
 <br>
 <br>
 <br>
