@@ -1,0 +1,36 @@
+# User config
+author: "Eunu Lee"
+tagline: "Eunu Lee Homepage"
+description: "Hello!
+<br>
+<br>
+<br>
+<br> I'm Eunu.",
+<br>
+<br>
+<br>"　  ", "An", 
+<br> "Interior designer",
+<br>"　  ", "based in",
+<br> "Seoul.",
+<br>
+<br>
+<br>""
+keywords: "Eunu, Interior Design, Portfolio"
+email: "eunnnnu@gmail.com"
+Linkedin: "https://www.instagram.com/eunu_xx"
+Twitter: "https://www.instagram.com/eunu_xx"
+Instagram: "https://www.instagram.com/eunu_xx"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
+
+#analytics
+
+analytics:
+  provider: google
+  google:
+    tracking_id : G
