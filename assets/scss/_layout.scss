@@ -13,7 +13,7 @@
 
 .logo {
 	float: left;
-	font-size: 1.8rem;
+	font-size: 5rem;
 	font-weight: 600;
 	margin: 0;
 	line-height: 1;
@@ -50,7 +50,7 @@
 .intro {
 	@media (min-width: $breakpoint-medium) {
 		p {
-			font-size: 6rem;
+			font-size: 8rem;
 			max-width: 66.66666%;
 		}
 	}
