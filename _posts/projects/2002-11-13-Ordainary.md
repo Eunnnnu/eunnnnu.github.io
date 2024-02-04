@@ -23,6 +23,7 @@ images:
   - image:
     url: "/assets/images/projects/day to day/Intro.jpg"
     alt: "Intro"
+    <br>
   - image:
     url: "/assets/images/projects/day to day/Site.jpg"
     alt: "Site"
