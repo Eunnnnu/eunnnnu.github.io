@@ -21,25 +21,25 @@ agency:
 
 images:
   - image:
-    url: "assets/images/projects/day to day/Intro.jpg"
+    url: "/assets/images/projects/day to day/Intro.jpg"
     alt: "Intro"
   - image:
-    url: "assets/images/projects/day to day/Site.jpg"
+    url: "/assets/images/projects/day to day/Site.jpg"
     alt: "Site"
   - image:
-    url: "assets/images/projects/day to day/0003.jpg"
+    url: "/assets/images/projects/day to day/0003.jpg"
     alt: "Project Concept"
   - image:
-    url: "assets/images/projects/day to day/0004.jpg"
+    url: "/assets/images/projects/day to day/0004.jpg"
     alt: "Design developing"
   - image:
-    url: "assets/images/projects/day to day/0005.jpg"
+    url: "/assets/images/projects/day to day/0005.jpg"
     alt: "Floorplan"
   - image:
-    url: "assets/images/projects/day to day/0006.jpg"
+    url: "/assets/images/projects/day to day/0006.jpg"
     alt: "Section"
   - image:
-    url: "assets/images/projects/day to day/0007.jpg.png"
+    url: "/assets/images/projects/day to day/0007.jpg.png"
     alt: "Rendering"
 ---
 <p>From the corner of the alley where we walk everyday, to community centers, subway stations, and countless apartment goshiwon villas, there were the unclaimed dead. Even though their deaths have always been descretly handled, they were there as part of our lives. They might have been a clerk at the cafe you went to, or the person you briefly made an eye contact on today's stroll. To uphold the last dignity of the unclaimed dead who were part of our community, people should ensure a ritual for them to bid last farewell.</p>
