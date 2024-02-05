@@ -20,24 +20,13 @@ agency:
   year: "2023"
 
 images:
-  - image:
-    url: "/assets/images/projects/day to day/Intro.jpg"
-    alt: "Intro"
-  - image:
-    url: "/assets/images/projects/day to day/Site.jpg"
-    alt: "Site"
-  - image:
-    url: "/assets/images/projects/day to day/0003.jpg"
-    alt: "Project Concept"
-  - image:
-    url: "/assets/images/projects/day to day/0004.jpg"
-    alt: "Design developing"
+  
   - image:
     url: "/assets/images/projects/day to day/5.png"
-    alt: "Floorplan"
+    alt: "3d"
   - image:
-    url: "/assets/images/projects/day to day/.jpg"
-    alt: "Section"
+    url: "/assets/images/projects/day to day/6.png"
+    alt: "3d"
 ---
 <p>From the corner of the alley where we walk everyday, to community centers, subway stations, and countless apartment goshiwon villas, there were the unclaimed dead. Even though their deaths have always been descretly handled, they were there as part of our lives. They might have been a clerk at the cafe you went to, or the person you briefly made an eye contact on today's stroll. To uphold the last dignity of the unclaimed dead who were part of our community, people should ensure a ritual for them to bid last farewell.</p>
 <br>'Ordinary: the unclaimed dead' is a space designed for the dignity of unclaimed dead, those who shared daily lives with us. They are categorized as unclaimed dead due to the absence of immediate family members to hold their funerals. This project serves as an accessible space for everyone, that helps natural remembering and mourning the deceased by enabling people to empathize with and talk about daily lives of those who passed away. it allows unclaimed dead to be respected as members of the community and enables a dignified end. 
