@@ -22,7 +22,7 @@ agency:
 images:
   
   - image:
-    url: "/assets/images/projects/day to day/ordinary.jpg"
+    url: "/assets/images/projects/day to day/ordinary.png"
     alt: ""
 
 
