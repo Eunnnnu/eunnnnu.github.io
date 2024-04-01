@@ -16,7 +16,7 @@ project:
 agency:
   location: "Seongsu-dong,   Seoul"
   url: 
-  area: "0"
+  area: "2430m²"
   year: "2023"
 
 images:
