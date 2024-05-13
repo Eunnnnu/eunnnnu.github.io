@@ -25,6 +25,8 @@ images:
     url: "/assets/images/projects/day to day/ordinary_1.jpg"
     alt: ""
 
+ <br>
+
  - image:
     url: "/assets/images/projects/day to day/ordinary_2.jpg"
     alt: ""
