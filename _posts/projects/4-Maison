@@ -1,0 +1,20 @@
+---
+layout: project
+permalink: /:title/
+category: projects
+
+meta:
+  keywords: "Architecture,Academic,Interior"
+
+project:
+  title: "MAISON ANONYMOUS"
+  sub: "Academic"
+  url: 
+  logo: "assets/images/projects/City of water/flood.png"
+  type: "Academic"
+
+agency:
+  location: "Sinsa-dong, Seoul, S.Korea"
+  url: 
+  area: "185m²"
+  year: "2021"
