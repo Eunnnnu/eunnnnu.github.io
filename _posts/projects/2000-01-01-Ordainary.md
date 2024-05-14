@@ -21,10 +21,10 @@ agency:
 
 images:
   image:
-    url: "/assets/images/projects/day to day/ordinary_1.jpg"
+    url: "/assets/images/projects/day to day/업로드용_페이지_1.png"
     alt: ""
   image:
-    url: "/assets/images/projects/day to day/ordinary_2.jpg"
+    url: "/assets/images/projects/day to day/업로드용_페이지_2.png"
     alt: ""
 ---
 
