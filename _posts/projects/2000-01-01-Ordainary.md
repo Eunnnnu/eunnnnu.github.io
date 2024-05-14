@@ -20,10 +20,10 @@ agency:
   year: "2023"
 
 images:
-  image:
+  - image:
     url: "/assets/images/projects/day to day/업로드용_페이지_1.png"
     alt: ""
-  image:
+  - image:
     url: "/assets/images/projects/day to day/업로드용_페이지_2.png"
     alt: ""
 ---
